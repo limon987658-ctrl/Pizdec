@@ -1,0 +1,2 @@
+# Pizdec
+Script for Rivals
